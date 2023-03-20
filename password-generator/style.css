@@ -1,0 +1,18 @@
+body {
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 2;
+}
+
+span {
+    margin: 0 5px;
+    font-weight: bold;
+}
+
+
+button {
+    font-size: 14px;
+}
